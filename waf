@@ -1,0 +1,2 @@
+#!/bin/sh
+python ./waf-1.9.2 $@
